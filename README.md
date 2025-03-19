@@ -1,3 +1,1 @@
-How to play:
-Extract Zip
-Open Index
+How to play:\nExtract Zip\nOpen Index
